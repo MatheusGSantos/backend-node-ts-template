@@ -3,6 +3,7 @@
 ### Extensions (Required)[VS Code]:
 1. EditorConfig for VS Code
 2. ESLint
+3. Prettier
 
 ### Extensions (Recommended)[VS Code]:
 1. TabNine Autocomplete AI
