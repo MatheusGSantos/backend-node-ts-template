@@ -10,4 +10,4 @@
 2. Reload
 
 ### Installation
-Download the project files and run `yarn init` in the source directory.
+Download the project files, go to the source directory and run `yarn` in the terminal.
