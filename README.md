@@ -11,3 +11,12 @@
 
 ### Installation
 Download the project files, go to the source directory and run `yarn` in the terminal.
+
+### Run
+_The scripts below are defined on package.json_
+
+* **Build:**
+`yarn build`
+
+* **Development Server:**
+`yarn dev:server`
